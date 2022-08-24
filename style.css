@@ -1,10 +1,10 @@
 p34{
     font-size: 50px;
-    background-color: aquamarine;
-    color: black;
-    text-align: center;
-    border-radius: 20px;
-    border: 50px dotted red;
-    padding: 50px;
-    margin: 50px;
+            background-color: aquamarine;
+            color: black;
+        text-align: center;
+                border-radius: 20px;
+                        border: 50px dotted red;
+                padding: 50px;
+                            margin: 50px;
 }
